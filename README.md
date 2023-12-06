@@ -1,4 +1,7 @@
-# Hi there 👋
+👋 Hi, I’m irfan 
+👀 I’m interested in software development 🥳
+🌱 I'm a full-stack MERN developer with a knack for creating innovative and user-friendly web applications. I'm always eager to learn new technologies and tackle complex technical challenges. My passion lies in crafting solutions that address real-world problems, and I'm committed to continuously enhancing my skills to make a meaningful impact in the web development community.
+
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
