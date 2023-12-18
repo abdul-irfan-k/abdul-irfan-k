@@ -58,12 +58,12 @@
 <br/>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irfan7k7&locale=en&hide_title=false&layout=compact&langs_count=9&cardwidth=500&theme=midnight-purple&hide_border=false&order=2&private=true&private=true" height="250" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-irfan-k&locale=en&hide_title=false&layout=compact&langs_count=9&cardwidth=500&theme=midnight-purple&hide_border=false&order=2&private=true&private=true" height="250" alt="languages graph"  />
 </div>
 
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=irfan7k7&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=abdul-irfan-k&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
 
