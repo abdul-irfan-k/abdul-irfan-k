@@ -56,15 +56,15 @@ const profile = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
 </div>
 
-## 📊 GitHub Snapshot
+## 📊 Snapshot
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-irfan-k&locale=en&hide_title=false&layout=compact&langs_count=9&card_width=350&theme=midnight-purple&hide_border=false" height="170" alt="Abdul Irfan top languages" />
+  <img src="https://github-readme-stats-alpha-virid.vercel.app/api/top-langs?username=abdul-irfan-k&locale=en&hide_title=false&layout=compact&langs_count=9&card_width=350&theme=midnight-purple&hide_border=false" height="170" alt="Abdul Irfan top languages" />
 </div>
 
-<!-- ## 🏆 GitHub Trophies
+## 🏆 Trophies
 
-![GitHub trophies](https://trophy.ryglcloud.net/?username=abdul-irfan-k&theme=onestar&no-frame=false&no-bg=false&margin-w=4) -->
+![GitHub trophies](https://trophy.ryglcloud.net/?username=abdul-irfan-k&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🤝 Connect
 
